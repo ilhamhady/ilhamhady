@@ -7,6 +7,20 @@ Saya asli Surabaya dan saat ini tinggal di Jimbaran, Bali. Singkat cerita saya m
 
 Sebagai Konsultan bukanlah pekerjaan utama yang saya geluti, karena awalnya saya lebih senang bergelut dalam dunia digital marketing dan web developer, tanpa embel-embel konsultan. Saya senang membantu teman-teman yang butuh bantuan tentang digital marketing dan segala hal tentang website.
 
+## Lets Talk About
+Ngobrol bareng ditemani secangkir kopi dengan sepiring gorengan sangatlah asyik. 
+Hal ini sering sekali memakan waktu hingga lupa waktu jika sudah berbicara tentang hal-hal yang berkaitan dengan:
+- Digital Marketing
+  - Social Media marketing
+  - Funneling
+- Wordpress
+  - Develop
+  - Design
+  - Performance
+  - Funnel
+  - Etc
+- Search Engine Optimization (SEO)
+
 ## How to Contact Me
 Buat teman-teman disana yang ingin bertanya dan berdiskusi tentang dunia digital marketing, wordpress web development dan SEO
 bisa contact saya melalui
