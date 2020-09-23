@@ -11,4 +11,4 @@ Sebagai Konsultan bukanlah pekerjaan utama yang saya geluti, karena awalnya saya
 Buat teman-teman disana yang ingin bertanya dan berdiskusi tentang dunia digital marketing, wordpress web development dan SEO
 bisa contact saya melalui
 - Email: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
-- Telegram [@ilhamsogir](t.me/ilhamsogir)
+- Telegram [@ilhamsogir](https://t.me/ilhamsogir)
