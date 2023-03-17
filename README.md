@@ -1,15 +1,22 @@
 # About Me
 
-👋 Halo, Salam kenal semuanya...
-> Nama saya **Muhammad Ilham**
+👋 Hello, nice to meet you all...
+> My name is **Muhammad Ilham**
 
-Saya asli Surabaya dan saat ini tinggal di Jimbaran, Bali. Singkat cerita saya merantau ke Bali di bulan agustus 2019 karena tuntutan pekerjaan sebagai Digital Marketing Konsultan untuk sebuah perusahaan yang bergerak di bidang Wedding Organizer.
+I am originally from Surabaya and currently live in Jimbaran, Bali. Long story short, I moved to Bali in August 2019 due to job demands as a Digital Marketing Consultant for a Wedding Organizer company.
 
-Sebagai Konsultan bukanlah pekerjaan utama yang saya geluti, karena awalnya saya lebih senang bergelut dalam dunia web development dan digital marketing, tanpa title konsultan (sebenarnya). Saya senang membantu teman-teman yang butuh bantuan tentang segala hal tentang website dan digital marketing.
+Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in America. I enjoy helping friends who need assistance with anything related to websites and digital marketing.
 
 ## Lets Talk About
-Ngobrol bareng ditemani secangkir kopi dengan sepiring gorengan sangatlah asyik. 
-Hal ini sering sekali memakan waktu hingga lupa waktu jika sudah berbicara tentang hal-hal yang berkaitan dengan:
+
+Having a chat over a cup of coffee with a plate of light bites is very enjoyable.
+This often takes up time, and before you know it, you could lose track of time when talking about things related to:
+
+- Programming
+  - Javascript
+  - React
+  - React Native
+  - CSS
 - Wordpress
   - Design
   - Develop
@@ -22,7 +29,8 @@ Hal ini sering sekali memakan waktu hingga lupa waktu jika sudah berbicara tenta
 - Search Engine Optimization (SEO)
 
 ## How to Contact Me
-Buat teman-teman disana yang ingin bertanya dan berdiskusi tentang dunia digital marketing, wordpress web development dan SEO
-bisa contact saya melalui
+
+For you there who want to ask and discuss programming, digital marketing, WordPress web development, and SEO, you can contact me through:
+
 - Email: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
 - Telegram [@ilhamsogir](https://t.me/ilhamsogir)
