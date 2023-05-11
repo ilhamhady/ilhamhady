@@ -14,8 +14,10 @@ This often takes up time, and before you know it, you could lose track of time w
 
 - Programming
   - Javascript
+  - Typescript
   - React
   - React Native
+  - HTML
   - CSS
 - Wordpress
   - Design
