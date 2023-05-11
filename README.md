@@ -5,7 +5,8 @@
 
 I am originally from Surabaya and currently live in Jimbaran, Bali. Long story short, I moved to Bali in August 2019 due to job demands as a Digital Marketing Consultant for a Wedding Organizer company.
 
-Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in Denver, USA. I enjoy helping friends who need assistance with anything related to websites and digital marketing.
+Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in Denver, USA.\
+I enjoy helping friends who need assistance with anything related to websites and digital marketing.
 
 ## Lets Talk About
 
@@ -15,10 +16,11 @@ This often takes up time, and before you know it, you could lose track of time w
 - Programming
   - Javascript
   - Typescript
+  - Next JS
   - React
   - React Native
   - HTML
-  - CSS
+  - CSS,Tailwind CSS, and Styled Component
 - Wordpress
   - Design
   - Develop
@@ -30,9 +32,9 @@ This often takes up time, and before you know it, you could lose track of time w
   - Funneling
 - Search Engine Optimization (SEO)
 
-## How to Contact Me
+## How to Connect with Me
 
-For you there who want to ask and discuss programming, digital marketing, WordPress web development, and SEO, you can contact me through:
+For you there who want to discuss and collaborate in programming, digital marketing, WordPress web development, and SEO, you can contact me through:
 
 - Email: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
 - Telegram [@ilhamsogir](https://t.me/ilhamsogir)
