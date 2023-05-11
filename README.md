@@ -5,7 +5,7 @@
 
 I am originally from Surabaya and currently live in Jimbaran, Bali. Long story short, I moved to Bali in August 2019 due to job demands as a Digital Marketing Consultant for a Wedding Organizer company.
 
-Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in America. I enjoy helping friends who need assistance with anything related to websites and digital marketing.
+Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in Denver, USA. I enjoy helping friends who need assistance with anything related to websites and digital marketing.
 
 ## Lets Talk About
 
