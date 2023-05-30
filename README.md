@@ -26,7 +26,6 @@ This often takes up time, and before you know it, you could lose track of time w
   - Develop
   - Performance
   - Funnel
-  - Etc
 - Digital Marketing
   - Social Media marketing
   - Funneling
