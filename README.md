@@ -1,14 +1,22 @@
-# Hey there, I'm Muhammad Ilham! 👋
+# Hi there! I'm Muhammad Ilham! 👋
 
-## A little bit about me 🌎
+## About Me 🚀
 
 Hello from the beautiful Jimbaran, Bali! Originally from Surabaya, my journey led me here in August 2019 and I haven't looked back since. I've been a Digital Marketing Consultant for a leading Wedding Organizer company, and guess what? I loved every bit of it! 
 
 But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now serving as a Frontend Engineer at [Fetchly Labs](https://www.fetch.ly), an innovative startup based in Denver, USA. At Fetchly, we're passionate about using data to drive actions, helping businesses connect with customers like never before!
 
-When I'm not elbow-deep in code or working out a digital marketing strategy, you'll probably catch me helping friends with their websites or sharing a laugh over a cup of coffee.
+I'm proud to say that I've built over 10 website projects, led and consulted a startup company, and even developed a few personal-use WordPress plugins. Each day brings new challenges and opportunities to learn, which is just the way I like it.
 
-## Let's Chat Over Coffee ☕️
+## On a Personal Note 😄
+
+When I'm not elbow-deep in code, I love learning new programming languages, diving into a new anime series, or just chilling with family and friends at coffee shops, beaches, or malls. Life is all about balance, right?
+
+## Future Goals 🎯
+
+Looking ahead, my ambition is to build web and mobile apps that can be game-changers for small businesses. There's so much potential out there, and I can't wait to explore it.
+
+## Coffee Chat Topics ☕️
 
 Speaking of coffee, I absolutely love deep-diving into conversations about:
 
@@ -19,9 +27,10 @@ Speaking of coffee, I absolutely love deep-diving into conversations about:
 
 ## Let's Connect! 🤝
 
-Are you up for discussing and diving into a project or collaborating on programming, digital marketing, WordPress web development, or SEO? Or maybe you just want to say hi? I'm all ears!
+Ready to dive into a project, chat about our favorite anime, or discuss programming, digital marketing, WordPress web development, or SEO? I'm all ears!
 
 - 📧 **Email**: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
 - 📱 **Telegram**: [@ilhamsogir](https://t.me/ilhamsogir)
+- 💼 **LinkedIn**: [muhammad-ilham-shogir](https://www.linkedin.com/in/muhammad-ilham-shogir/)
 
-I'm stoked to meet you! Let's create something brilliant together!
+Can't wait to meet you! Let's create something brilliant together!
