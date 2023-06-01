@@ -1,39 +1,23 @@
-# About Me
+# Hey there, I'm Muhammad Ilham! 👋
 
-👋 Hello, nice to meet you all...
-> My name is **Muhammad Ilham**
+Living in the beautiful town of Jimbaran, Bali, I'm your go-to guy for **web development** and **digital marketing**. Though my journey began in Surabaya, I found a new home here in Bali in August 2019. Since then, I've been a Digital Marketing Consultant for a top-tier Wedding Organizer company, and now I'm diving deep into programming as a Frontend Engineer at an exciting startup in Denver, USA. 
 
-I am originally from Surabaya and currently live in Jimbaran, Bali. Long story short, I moved to Bali in August 2019 due to job demands as a Digital Marketing Consultant for a Wedding Organizer company.
+When I'm not coding, you'll find me helping out friends with their websites or crafting digital marketing strategies.
 
-Being a consultant is not my main job, as initially, I prefer to delve into web development and digital marketing. Currently, I am back to programming while working as a Frontend Engineer in one of the startup companies in Denver, USA.\
-I enjoy helping friends who need assistance with anything related to websites and digital marketing.
+## Coffee Chat Topics ☕️
 
-## Lets Talk About
+Who doesn't love a good chat over coffee and some light bites? Here are some of the topics I could talk about for hours:
 
-Having a chat over a cup of coffee with a plate of light bites is very enjoyable.
-This often takes up time, and before you know it, you could lose track of time when talking about things related to:
+- **Programming**: I love discussing everything from Javascript and Typescript to Next JS, React, and React Native.
+- **Web Development**: I'm a pro at HTML, CSS, Tailwind CSS, Styled Components, and Wordpress.
+- **Web Design & Performance**: From conceptualizing to boosting website performance, I'm all about it.
+- **Digital Marketing**: Social Media marketing, funneling, Search Engine Optimization (SEO) - I've got you covered.
 
-- Programming
-  - Javascript
-  - Typescript
-  - Next JS
-  - React
-  - React Native
-  - HTML
-  - CSS,Tailwind CSS, and Styled Component
-- Wordpress
-  - Design
-  - Develop
-  - Performance
-  - Funnel
-- Digital Marketing
-  - Social Media marketing
-  - Funneling
-- Search Engine Optimization (SEO)
+## Let's Connect! 🌐
 
-## How to Connect with Me
+Ready to dive into a project or just want to chat about programming, digital marketing, WordPress web development, or SEO? I'd love to hear from you! 
 
-For you there who want to discuss and collaborate in programming, digital marketing, WordPress web development, and SEO, you can contact me through:
+- 📧 **Email**: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
+- 📱 **Telegram**: [@ilhamsogir](https://t.me/ilhamsogir)
 
-- Email: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
-- Telegram [@ilhamsogir](https://t.me/ilhamsogir)
+Can't wait to connect and create something awesome together!
