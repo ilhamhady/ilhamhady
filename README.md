@@ -19,7 +19,7 @@ Speaking of coffee, I absolutely love deep-diving into conversations about:
 
 ## Let's Connect! 🤝
 
-Ready to dive into a project or just want to chat about programming, digital marketing, WordPress web development, or SEO? I'd love to hear from you! 
+Are you up for discussing and diving into a project or collaborating on programming, digital marketing, WordPress web development, or SEO? Or maybe you just want to say hi? I'm all ears!
 
 - 📧 **Email**: [ilham.hady@gmail.com](mailto:ilham.hady@gmail.com)
 - 📱 **Telegram**: [@ilhamsogir](https://t.me/ilhamsogir)
