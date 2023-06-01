@@ -4,13 +4,13 @@
 
 Hello from the beautiful Jimbaran, Bali! Originally from Surabaya, my journey led me here in August 2019 and I haven't looked back since. I've been a Digital Marketing Consultant for a leading Wedding Organizer company, and guess what? I loved every bit of it! 
 
-But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now serving as a Frontend Engineer at [Fetchly Labs](https://www.fetch.ly), an innovative startup based in Denver, USA. At Fetchly, we're passionate about using data to drive actions, helping businesses connect with customers like never before!
+But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now rocking as a Frontend Engineer at [Fetchly Labs](https://www.fetch.ly), a data-driven startup based in Denver, USA that's revolutionizing how businesses connect with customers.
 
 ### A Snapshot of My Journey So Far 🚀
 
 I'm a firm believer that every day is a chance to learn, to challenge oneself, and to step out of the comfort zone. It's this ethos that's shaped my career journey, and let me tell you, it's been quite an adventure!
 
-- **Web Development Guru**: I've successfully constructed over 10 websites, each a new challenge and a new triumph.
+- **Web Development Guru**: Constructed over 10 websites from scratch, each adding a unique perspective to my approach.
 - **Government Collaborations**: Had the opportunity to be part of noteworthy government website projects, adding a valuable dimension to my experience.
 - **WordPress Wizard**: I have a few personal-use WordPress plugins to my name - just another way I love to explore the endless possibilities of coding!
 - **Startup Strides**: Currently making waves at my position at Fetchly Labs, I've had my hands in over 10 impactful web and mobile app projects, shaping the digital face of businesses.
@@ -30,9 +30,9 @@ Looking ahead, my ambition is to build web and mobile apps that can be game-chan
 Speaking of coffee, I absolutely love deep-diving into conversations about:
 
 - **Programming**: From Javascript and Typescript to Next JS, React, and React Native – let's talk!
-- **Web Development**: HTML, CSS, Tailwind CSS, Styled Components, and Wordpress? Count me in!
+- **Web Development**: HTML, CSS, Tailwind CSS, Styled Components, and WordPress? Count me in!
 - **Web Design & Performance**: I'm all about creating and fine-tuning until it's just right.
-- **Digital Marketing**: Social Media marketing, funneling, Search Engine Optimization (SEO) - I've got loads to share!
+- **Digital Marketing**: Social Media Marketing, funneling, Search Engine Optimization (SEO) - I've got loads to share!
 
 ## Let's Connect! 🤝
 
