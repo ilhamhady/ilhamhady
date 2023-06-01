@@ -13,7 +13,7 @@ Who doesn't love a good chat over coffee and some light bites? Here are some of 
 - **Web Design & Performance**: From conceptualizing to boosting website performance, I'm all about it.
 - **Digital Marketing**: Social Media marketing, funneling, Search Engine Optimization (SEO) - I've got you covered.
 
-## Let's Connect! 🌐
+## Let's Connect! 🤝
 
 Ready to dive into a project or just want to chat about programming, digital marketing, WordPress web development, or SEO? I'd love to hear from you! 
 
