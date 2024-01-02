@@ -4,7 +4,7 @@
 
 Hello from the beautiful Jimbaran, Bali! Originally from Surabaya, my journey led me here in August 2019 and I haven't looked back since. I've been a Digital Marketing Consultant for a leading Wedding Organizer company, and guess what? I loved every bit of it! 
 
-But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now rocking as a Frontend Engineer at [Fetchly Labs](https://www.fetch.ly), a data-driven startup based in Denver, USA that's revolutionizing how businesses connect with customers.
+But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now rocking as a [Frontend Engineer](https://github.com/ilham-fetchly) at [Fetchly Labs](https://www.fetch.ly), a data-driven startup based in Denver, USA that's revolutionizing how businesses connect with customers.
 
 ### A Snapshot of My Journey So Far 🚀
 
