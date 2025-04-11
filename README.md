@@ -2,9 +2,9 @@
 
 ## A little bit about me 🌎
 
-Hello from the beautiful Jimbaran, Bali! Originally from Surabaya, my journey led me here in August 2019 and I haven't looked back since. I've been a Digital Marketing Consultant for a leading Wedding Organizer company, and guess what? I loved every bit of it! 
+Hello from the beautiful Jimbaran, Bali! Originally from Surabaya, my journey led me here in August 2019, and I haven't looked back since. I've been a Digital Marketing Consultant for a leading wedding organizer company in Bali, and guess what? I loved every bit of it!
 
-But you know what I love even more? **Web development** and **digital marketing**! That's why I'm thrilled to share that I'm now rocking as a [Frontend Engineer](https://github.com/ilham-fetchly) at [Fetchly Labs](https://www.fetch.ly), a data-driven startup based in Denver, USA that's revolutionizing how businesses connect with customers.
+But you know what I love even more? **Web development** and **coding journey!** That's why I'm thrilled to share that I'm now rocking as a [Frontend Engineer](https://github.com/ilham-fetchly) at [Fetchly Labs](https://www.fetch.ly), a data-driven startup based in Denver, USA, that's revolutionizing how businesses connect with customers.
 
 ### A Snapshot of My Journey So Far 🚀
 
@@ -19,7 +19,7 @@ Each of these milestones has enriched my journey, shaping me into a versatile, s
 
 ## On a Personal Note 😄
 
-When I'm not elbow-deep in code, I love learning new programming languages (Python is my current learning path), diving into a new anime series (currently hooked on Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc), or just chilling with family and friends at coffee shops (I'm a caramel cappuccino guy), beaches, or malls. Life is all about balance, right?
+When I'm not elbow-deep in code, I love learning new programming languages (Python is my current learning path), diving into a new anime series (currently hooked on Solo Leveling), or just chilling with family and friends at coffee shops (I'm an cappuccino guy), beaches, or malls. Life is all about balance, right?
 
 ## Future Goals 🎯
 
@@ -29,10 +29,11 @@ Looking ahead, my ambition is to build web and mobile apps that can be game-chan
 
 Speaking of coffee, I absolutely love deep-diving into conversations about:
 
-- **Programming**: From Javascript and Typescript to Next JS, React, and React Native – let's talk!
+- **Programming**: From JavaScript and TypeScript to Next JS, React, and React Native – let's talk!
 - **Web Development**: HTML, CSS, Tailwind CSS, Styled Components, and WordPress? Count me in!
 - **Web Design & Performance**: I'm all about creating and fine-tuning until it's just right.
 - **Digital Marketing**: Social Media Marketing, funneling, Search Engine Optimization (SEO) - I've got loads to share!
+- **AI Coding Tools & Frameworks**: I'm a fan of AI coding tools and frameworks like OpenAI, Claude, Deepseek, Ollama, Open WebUI, Lovable, and more. What's your favorite AI tool?
 
 ## Let's Connect! 🤝
 
